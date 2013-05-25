@@ -1,0 +1,11 @@
+{
+  "name": "Time to Game",
+  "description": "Champions League Countdown",
+  "version": "0.1",
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "16": "ball-16.png", "128": "ball-128.png" }
+}
